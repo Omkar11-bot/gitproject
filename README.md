@@ -1,3 +1,3 @@
 # gitproject
 my first git repository
-Author-omkar bamsal
+Author-omkar bansal
